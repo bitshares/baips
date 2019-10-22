@@ -13,6 +13,6 @@ detailed explanation.
 
 # Available BSIPs
 
-Number             | Title                                                    | Owner             | Type           | Status
+Number             | Title                                                    | Author             | Type           | Status
 -------------------|----------------------------------------------------------|-------------------|----------------|--------
 [1](baip-0001.md)  | BAIP Purpose and Guidelines                              | Bangzi      | Informational  | Draft
