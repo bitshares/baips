@@ -16,3 +16,4 @@ detailed explanation.
 Number             | Title                                                    | Author             | Type           | Status
 -------------------|----------------------------------------------------------|-------------------|----------------|--------
 [1](baip-0001.md)  | BAIP Purpose and Guidelines                              | Bangzi      | Informational  | Draft
+[2](baip-0002.md)  | BAIP Reform of loopholes in feed price mechannism        | cn-vote     | consensus      | Draft
